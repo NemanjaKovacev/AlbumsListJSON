@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lista albuma</string>
+    <string name="album">Album</string>
+    <string name="download">Preuzimanje</string>
+    <string name="downloading">Preuzimanje&#8230;</string>
+    <string name="error">Greška</string>
+    <string name="parse_unable">Greška prilikom raščlanjivanja JSON datoteke. Proverite log output.</string>
+    <string name="parse">Raščlanjivanje JSON datoteke</string>
+    <string name="parsing">Raščlanjivanje&#8230;</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Albums List</string>
+    <string name="album">Album</string>
+    <string name="download">Download</string>
+    <string name="downloading">Downloading&#8230;</string>
+    <string name="error">Error</string>
+    <string name="parse_unable">Parsing error. Please check the log output</string>
+    <string name="parse">Parse JSON file</string>
+    <string name="parsing">Parsing&#8230;</string>
+</resources>
